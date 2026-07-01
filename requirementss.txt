@@ -1,6 +1,6 @@
-streamlit
+mysql-connector-python
 pandas
+streamlit
 numpy
-opencv-python-headless
-pillow
-sweetviz
+matplotlib
+seaborn
